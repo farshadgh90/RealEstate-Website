@@ -1,0 +1,38 @@
+[
+  {
+    "name": "مهرشهر کرج",
+    "price": "8.000,000,000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./r1.png"
+  },
+  {
+    "name": "عظیمیه کرج",
+    "price": "6,000,000,000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "جهانشهر کرج",
+    "price": "6,000,000,000",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  },
+  {
+    "name": "مهرشهر کرج",
+    "price": "8,000,000,000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./r1.png"
+  },
+  {
+    "name": "عظیمیه کرج",
+    "price": "6,000,000,000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "جهانشهر کرج",
+    "price": "6,000,000,000",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  }
+]
